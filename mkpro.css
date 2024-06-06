@@ -1,0 +1,24 @@
+h2, h3, h4, h5, h6{
+  font-family: 'Fantasy', cursive;
+}
+
+h3, h5{
+  background-color: #00BBF9;
+}
+
+body{
+  background-color: #D4F5F5;
+}
+
+p{
+  color:  red;
+  font-family: 'Bubblegum Sans', sans-serif;
+  border: 8px;
+  border-radius: 8%;
+  border-color: blue;
+  border-style: double;
+  padding: 20px;
+  background-color: seashell;
+}
+
+<link
